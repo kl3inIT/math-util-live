@@ -7,6 +7,7 @@ public class MathUtilLive {
         System.out.println("expected: 5! = 120; actual: " + result);
         
         System.out.println("");
+        System.out.println(result);
     }
 
 }
